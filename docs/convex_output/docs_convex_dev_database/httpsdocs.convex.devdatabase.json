@@ -1,0 +1,18 @@
+[
+    {
+        "url": "https://docs.convex.dev/database",
+        "content": "# Database\nThe Convex database provides a relational data model, stores JSON-like documents, and can be used with or without a schema. It \"just works,\" giving you predictable query performance in an easy-to-use interface.\n\nQuery and mutation [functions](/functions) read and write data through\na lightweight JavaScript API. There is nothing to set up, and no need to write\nany SQL. Just use JavaScript to express your app's needs.\n\nStart by learning about the basics of\n[Tables & Documents](/database/document-storage),\n[Reading Data](/database/reading-data) and\n[Writing Data](/database/writing-data).\n\nAs your app grows more complex you'll need more from your database:\n\n- Relational data modeling with\n[Document IDs](/database/document-ids) - Fast querying with\n[Indexes](/database/indexes/) - Exposing large datasets with\n[Paginated Queries](/database/pagination) - Type safety by\n[Defining a Schema](/database/schemas) - Interoperability with data\n[Import & Export](/database/import-export/)",
+        "metadata": {
+            "title": "Database | Convex Developer Hub",
+            "url": "https://docs.convex.dev/database",
+            "hostname": "convex.dev",
+            "description": "Store JSON-like documents with a relational data model.",
+            "sitename": "docs.convex.dev",
+            "date": "2024-01-01",
+            "categories": [],
+            "tags": [],
+            "image": "https://docs.convex.dev/img/social.png",
+            "filedate": "2024-12-01"
+        }
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "url": "https://docs.convex.dev/functions",
+        "content": "# Functions\nFunctions run on the backend and are written in JavaScript (or TypeScript). They\nare automatically available as APIs accessed through\n[client libraries](/client/react). Everything you do in the Convex\nbackend starts from functions.\n\nThere are three types of functions:\n\n[Queries](/functions/query-functions)read data from your Convex database and are automatically cached and subscribable (realtime, reactive).[Mutations](/functions/mutation-functions)write data to the database and run as a transaction.[Actions](/functions/actions)can call Open AI, Stripe, Twilio, or any other service or API you need to make your app work.\nYou can also build [HTTP actions](/functions/http-actions) when you\nwant to call your functions from a webhook or a custom client.",
+        "metadata": {
+            "title": "Functions | Convex Developer Hub",
+            "url": "https://docs.convex.dev/functions",
+            "hostname": "convex.dev",
+            "description": "Write functions to define your server behavior.",
+            "sitename": "docs.convex.dev",
+            "date": "2024-01-01",
+            "categories": [],
+            "tags": [],
+            "image": "https://docs.convex.dev/img/social.png",
+            "filedate": "2024-12-01"
+        }
+    }
+]

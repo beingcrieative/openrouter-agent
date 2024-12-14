@@ -1,0 +1,18 @@
+[
+    {
+        "url": "https://docs.convex.dev/auth",
+        "content": "# Authentication\nAuthentication allows you to identify users and restrict what data they can see and edit.\n\n## Convex Auth[](#convex-auth)\nFor client-side React and React Native mobile apps you can implement auth\ndirectly in Convex with the [Convex Auth](/auth/convex-auth) library.\nThis [npm package](https://github.com/get-convex/convex-auth) runs on your\nConvex deployment and helps you build a custom sign-up/sign-in flow via social\nidentity providers, one-time email or SMS access codes, or via passwords.\n\nConvex Auth is in beta (it isn't complete and may change in backward-incompatible ways) and doesn't provide as many features as third party auth integrations. Since it doesn't require signing up for another service it's the quickest way to get auth up and running.\n\nConvex Auth is currently a [beta\nfeature](/production/state/#beta-features). If you have feedback or feature\nrequests, [let us know on Discord](https://convex.dev/community)!\n\nSupport for Next.js is under active development. If you'd like to help test this\nexperimental support please [give it a try](https://labs.convex.dev/auth)!\n\n## Third-party authentication platforms[](#third-party-authentication-platforms)\nLeveraging a Convex integration with a third-party auth provider provides the most comprehensive authentication solutions. Integrating another service provides a ton of functionality like passkeys, two-factor auth, spam protection, and more on top of the authentication basics.\n\n[Clerk](/auth/clerk)is newer and has better Next.js and React Native support[Auth0](/auth/auth0)is more established with more bells and whistles[Custom Auth Integration](/auth/advanced/custom-auth)allow any OpenID Connect-compatible identity provider to be used for authentication\nAfter you integrate one of these, learn more about accessing authentication\ninformation in [Functions](/auth/functions-auth) and storing user\ninformation in the [Database](/auth/database-auth).\n\n## Debugging[](#debugging)\nIf you run into issues consult the [Debugging](/auth/debug) guide.",
+        "metadata": {
+            "title": "Authentication | Convex Developer Hub",
+            "url": "https://docs.convex.dev/auth",
+            "hostname": "convex.dev",
+            "description": "Add authentication to your Convex app.",
+            "sitename": "docs.convex.dev",
+            "date": "2024-01-01",
+            "categories": [],
+            "tags": [],
+            "image": "https://docs.convex.dev/img/social.png",
+            "filedate": "2024-12-01"
+        }
+    }
+]
