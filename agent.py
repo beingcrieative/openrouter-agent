@@ -126,7 +126,7 @@ try:
             print("\nSending request to OpenRouter...")
             start_time = time.time()
             
-            response = agent.run_sync("What can you tell me about yourself?")
+            response = agent.run_sync("wat is de huidige prijs van bitcoin en geef de exacte datum ook?")
             
             if response:
                 print("\nAgent response:", response)
